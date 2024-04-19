@@ -1,5 +1,7 @@
 # vue-cli-tailwind-template
 
+This is a minimal template for using Tailwind CSS in Vue-cli projects.
+
 ## Project setup
 ```
 npm install
